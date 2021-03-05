@@ -1,16 +1,27 @@
-# mvp_para_llevar
+# MVP - Para Llevar
 
-A new Flutter project.
+Final project for the Fundations program at Holberton School.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project intention is to create a delivery app for restaurants
+and fast food vendors to have a meeting point with their clients and future
+clients in small towns, where bigger apps normally don't offer their services.
 
-A few resources to get you started if this is your first Flutter project:
+Normally in these little towns, people only have one or two phone numbers to
+request delivey from, not becuase they don't like other places, but because of
+the lack of information.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para Llevar looks to close this gap by connecting clients to vendors in a
+telphone book/menu alike environment in which the vendors will fulfill the
+delivery of food by themselves, which is normal in these little towns.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+The technologies that are being use for this project are:
+- Flutter
+- Firebase by Google
+
+## Author
+
+Jorge Luis Ramírez
